@@ -1,8 +1,6 @@
 ### Hi, I'm Fernando Oliveira! 👋
 
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on DTI Sistemas LTDA.
 - 🌱 I’m currently learning PySpark/MLFlow
 - 💬 Ask me about Financial modelling or any tech related stuff
