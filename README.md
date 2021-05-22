@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **oliveirafer06@gmail.com**
 
-- ⚡ Fun fact **After working, i still have to study, so, I'm like a zombie.**
+- ⚡ Fun fact **After working, I still have to study, so, I'm like a zombie.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
