@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **PySpark, Mlflow and MLOps**
 
-- 👨‍💻 All of my projects are available at [Frndo1203](https://github.com/Frndo1203/EBAC)
+- 👨‍💻 All of my projects are available at [Portfolio](https://github.com/Frndo1203/EBAC)
 
 - 💬 Ask me about **Financial modelling or any tech related stuff**
 
