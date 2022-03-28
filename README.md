@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working at [DTI Sistemas LTDA.](https://www.dtidigital.com.br/)
 
-- 🌱 I’m currently learning **Apache Kafka, Azure Data Factory and HDFS**
+- 🌱 I’m currently learning **Apache Kafka, EKS, K8s and Apache Pinot**
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://github.com/Frndo1203/Portfolio) (in progress)
 
