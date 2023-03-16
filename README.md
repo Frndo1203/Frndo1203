@@ -14,7 +14,7 @@
 
 - ⚡ Fun fact **After working, I still have to study, so, I'm like a zombie.**
 
-<a href="https://app.daily.dev/Frndo1203"><img src="https://api.daily.dev/devcards/c61cc7ef6bfd48d0a8d1f999c034fdf9.png?r=whk" width="400" alt="Fernando Oliveira's Dev Card"/></a>
+<a href="https://app.daily.dev/Frndo1203"><img src="https://api.daily.dev/devcards/c61cc7ef6bfd48d0a8d1f999c034fdf9.png?r=z14" width="400" alt="Fernando Oliveira's Dev Card"/></a>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="www.linkedin.com/in/fernando-oliveira-android-developer" target="blank"><img align="center" src="https://pngimg.com/uploads/linkedIn/linkedIn_PNG38.png" alt="fernando oliveira" height="100" width="100" /></a>
