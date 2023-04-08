@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Fernando Oliveira</h1>
-<h3 align="center">Data Engineer</h3>
+<h3 align="center">Software Engineer</h3>
 <img src="https://www.nielsen.com/wp-content/uploads/sites/3/2019/04/data-science-icon-animation-banner-clockwise.gif" height='250' width='1000' style="vertical-align:middle">
 
 - 🔭 I’m currently working at [XP Inc.](https://www.dtidigital.com.br/)
 
-- 🌱 I’m currently learning **Kotlin, Android Studio and Android Architecture**
+- 🌱 I’m currently learning **.NET Core, Api REST and Software Architecture**
 
 - 👨‍💻 All of my projects are available below! Feel free to make some opinion
 
-- 💬 Ask me about **Mobile or any tech related stuff**
+- 💬 Ask me about **Software Engineering or any tech related stuff**
 
 - 📫 How to reach me **oliveirafer06@gmail.com**
 
