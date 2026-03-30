@@ -2,7 +2,7 @@
 <h3 align="center">Software Engineer</h3>
 <img src="https://www.nielsen.com/wp-content/uploads/sites/3/2019/04/data-science-icon-animation-banner-clockwise.gif" height='250' width='1000' style="vertical-align:middle">
 
-- 🔭 I’m currently working at [Wiley](https://www.wiley.com/en-us)
+- 🔭 I’m currently working at 
 
 - 🌱 I’m currently learning **Big Data on Kubernetes and Data Mesh**
 
